@@ -4,8 +4,8 @@ This is a small Java command line tool to merge different pdfs and images into o
 java -jar PDFJoiner.jar "flags" "outfile" "infile_1" "infile_2" ... "infile_n"
 
 ## Flags
--h /t show this page <br>
--? /t show this page <br>
+-h /t show help page <br>
+-? /t show help page <br>
 -o /t open created pdf <br>
 -p /t add page numbers <br>
 
